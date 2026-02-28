@@ -24,6 +24,7 @@ I build AI systems that work in the real world — from deep learning models to 
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
+| [**GOV-SIM**](https://github.com/HimanshuDataWizard/GOV-SIM) | Fairness-aware multi-agent AI for transparent public fund allocation | Multi-Agent, Optimization, XAI |
 | [**ELCellNet**](https://github.com/HimanshuDataWizard/ELCellNet) | Deep learning defect segmentation in solar cells | PyTorch, U-Net, ResNet-34 |
 | [**Ai_Solar**](https://github.com/HimanshuDataWizard/Ai_Solar) | AI-powered solar panel analysis | Deep Learning, Computer Vision |
 | [**Annotation Vision**](https://github.com/HimanshuDataWizard/Annotation_vision) | Fire detection dataset with bounding box annotations | Roboflow, Object Detection |
