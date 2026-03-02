@@ -24,7 +24,7 @@ I build AI systems that work in the real world — from deep learning models to 
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
-| [**GOV-SIM**](https://github.com/HimanshuDataWizard/GOV-SIM) | Fairness-aware multi-agent AI for transparent public fund allocation | `Python` · `Streamlit` · `PuLP (MILP)` · `Multi-Agent` · `TF-IDF RAG` · `Explainable AI (XAI)` |
+| [**GOV-SIM**](https://github.com/HimanshuDataWizard/GOV-SIM) | Fairness-aware multi-agent AI for transparent public fund allocation | `Python` · `Streamlit` · `Google Gemini (LLM)` · `PuLP (MILP)` · `Multi-Agent` · `TF-IDF RAG` · `Explainable AI (XAI)` |
 | [**ELCellNet**](https://github.com/HimanshuDataWizard/ELCellNet) | Deep learning defect segmentation in solar cells | `Python` · `PyTorch` · `U-Net` · `ResNet-34` · `AMP` |
 | [**Ai_Solar**](https://github.com/HimanshuDataWizard/Ai_Solar) | AI-powered solar panel analysis | `Python` · `Deep Learning` · `Computer Vision` |
 | [**Annotation Vision**](https://github.com/HimanshuDataWizard/Annotation_vision) | Fire detection dataset with bounding box annotations | `Roboflow` · `Object Detection` · `Bounding Boxes` · `Dataset Curation` |
