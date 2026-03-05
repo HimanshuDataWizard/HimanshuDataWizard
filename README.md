@@ -28,7 +28,7 @@ I build AI systems that work in the real world — from deep learning models to 
 `FastAPI` `Streamlit` `Docker` `ONNX` `TensorRT` `Jetson Orin`
 
 **Agentic AI / LLM**
-`RAG` `Multi-Agent` `Prompt Engineering` `Cursor` `Claude` `Codex` `Google Gemini`
+`RAG` `Multi-Agent` `Prompt Engineering` `Ollama` `LangChain` `FAISS` `Cursor` `Claude` `Codex` `Google Gemini`
 
 ---
 
@@ -36,6 +36,7 @@ I build AI systems that work in the real world — from deep learning models to 
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
+| [**PolicyPramaan AI**](https://github.com/HimanshuDataWizard/PolicyPramaanAI) | 🏛️ E-Governance RAG Copilot — local AI policy assistant with citation-based answers, 100% offline | `Python` · `Ollama` · `Qwen 2.5` · `LangChain` · `FAISS` · `RAG` · `Streamlit` · `Anti-Hallucination` |
 | [**GOV-SIM**](https://github.com/HimanshuDataWizard/GOV-SIM) | Fairness-aware multi-agent AI for transparent public fund allocation | `Python` · `Streamlit` · `Google Gemini (LLM)` · `PuLP (MILP)` · `Multi-Agent` · `TF-IDF RAG` · `Explainable AI (XAI)` |
 | [**ELCellNet**](https://github.com/HimanshuDataWizard/ELCellNet) | Deep learning defect segmentation in solar cells | `Python` · `PyTorch` · `U-Net` · `ResNet-34` · `AMP` |
 | [**Ai_Solar**](https://github.com/HimanshuDataWizard/Ai_Solar) | AI-powered solar panel analysis | `Python` · `Deep Learning` · `Computer Vision` |
