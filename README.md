@@ -2,7 +2,7 @@
 
 # Hey, I'm Himanshu 👋
 
-**AI-Driven Scientist & Engineer**
+**AI Scientist & Engineer**
 
 I build AI systems that work in the real world — from deep learning models to edge deployment.
 
