@@ -2,7 +2,7 @@
 
 # Hey, I'm Himanshu 👋
 
-*AI & ML Engineer | Data Science | Python | NLP | CV | Agentic AI**
+**AI/ML Specialist | Building Intelligent Systems with Python**
 
 I build AI systems that work in the real world — from deep learning models to edge deployment.
 
